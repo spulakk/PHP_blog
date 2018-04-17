@@ -1,0 +1,32 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    background: beige;
+    font-family: 'Raleway', sans-serif;
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.fa {
+    font-size: 25px !important;
+}
+
+.fa-trash {
+    color: red;
+}
+
+.fa-edit {
+    color: blue;
+}
+
+button {
+    float: right;
+    margin: 0 5px;
+}
